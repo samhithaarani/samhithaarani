@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://dev.to/samhithaarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samhithaarani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samhitha-arani-75465a251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samhitha-arani-75465a251" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/journey of learning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="journey of learning" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCDzWedSqniT_xXOOoo-ZJEg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="journey of learning" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
