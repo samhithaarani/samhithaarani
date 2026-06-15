@@ -1,6 +1,6 @@
 # Gayathri Sai Samhitha Arani
 
-`hyderabad · samhithaarani18@gmail.com`
+`hyderabad · samhithaarani77@gmail.com`
 
 There's a lot happening in this world right now — in tech, in AI, in how businesses run. This is my little attempt to explore more of it and understand it better.
 
