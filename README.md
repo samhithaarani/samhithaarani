@@ -1,34 +1,64 @@
-<h1 align="center">Hi 👋, I'm Samhitha</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# Gayathri Sai Samhitha Arani
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samhithaarani&label=Profile%20views&color=0e75b6&style=flat" alt="samhithaarani" /> </p>
+`// software engineer · quote-to-cash · ai automation · hyderabad`
 
-- 🌱 I’m currently learning **React**
+---
 
-- 👨‍💻 Few of my projects are available at [https://samhithaarani.github.io/](https://samhithaarani.github.io/)
+I build at the intersection of **enterprise pricing systems** and **AI-driven automation**.
 
-- 📝 I regularly write articles on [https://medium.com/@samhithaarani18](https://medium.com/@samhithaarani18)
+Right now I'm deep in Revenue Cloud Advanced implementations — complex product bundles, approval workflows, CPQ migrations — while exploring how Agentforce can make these systems smarter.
 
-- 📫 How to reach me **samhithaarani18@gmail.com**
+I started as a full-stack developer. I didn't stay generic.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PrPW6BFYL1mrPB7_re9piHkKWR2Kgssq/view?usp=sharing](https://drive.google.com/file/d/1PrPW6BFYL1mrPB7_re9piHkKWR2Kgssq/view?usp=sharing)
+---
 
-- ⚡ Fun Fact **I Think !....!**
+### what I work with
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+**Salesforce ecosystem**
+`Conga CPQ` `Revenue Cloud` `Lightning Web Components` `Apex` `Salesforce Flows` `SOQL` `Salesforce CLI` `CI/CD`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/samhithaarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samhithaarani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samhitha-arani-75465a251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samhitha-arani-75465a251" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCDzWedSqniT_xXOOoo-ZJEg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="journey of learning" height="30" width="40" /></a>
-</p>
+**AI & automation**
+`Agentforce` `Python scripting` `Metadata automation`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**Web**
+`React` `Django` `JavaScript` `HTML/CSS`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samhithaarani&show_icons=true&locale=en&layout=compact" alt="samhithaarani" /></p>
+---
 
+### right now
 
+| | |
+|---|---|
+| 🟢 **building** | EJM (NetJets affiliate) — Conga CPQ · LWC · metadata automation across 40+ objects |
+| 📖 **exploring** | Revenue Cloud Advanced — pricing models, approval orchestration, CPQ→RCA migrations |
+| 🤖 **learning** | Agentforce — AI agents for enterprise business workflows |
+| ✍️ **writing** | Technical blogs on Medium — Salesforce, architecture, things I'm figuring out |
+
+---
+
+### projects
+
+**CLM Process Automation Agent** · *Hackathon, Forsys*
+Automated the full Contract Lifecycle Management process using Agentforce + Revenue Cloud. AI-driven contract workflows that eliminate manual handoffs. Received official certification.
+
+**Metadata Deployment Automation** · *EJM / NetJets, Forsys*
+Python + Salesforce CLI scripts to automate field deployment across 40+ cascading objects. Reduced manual effort significantly, ensured consistency across Product Attribute Value and related objects.
+
+**Rentify** · *Personal*
+Full-stack property platform. Sellers list and manage properties. Buyers search, filter, save favourites. React + Django.
+
+**Brain Tumor Classification** · *University major project*
+Few-shot deep learning using prototypical networks on BRATS2019. Classified HGG, LGG, and healthy brain tissue from MRI scans — accurate with minimal training data.
+
+---
+
+> Trying to be useful at the edge where enterprise systems meet AI. One implementation at a time.
+
+---
+
+### find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samhitha--arani-blue?style=flat&logo=linkedin)](https://linkedin.com/in/samhitha-arani-75465a251)
+[![Portfolio](https://img.shields.io/badge/Portfolio-samhithaarani.github.io-black?style=flat)](https://samhithaarani.github.io/)
+[![Medium](https://img.shields.io/badge/Medium-@samhithaarani18-black?style=flat&logo=medium)](https://medium.com/@samhithaarani18)
+[![Email](https://img.shields.io/badge/Email-samhithaarani18@gmail.com-red?style=flat&logo=gmail)](mailto:samhithaarani18@gmail.com)
